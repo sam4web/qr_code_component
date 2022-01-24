@@ -20,7 +20,7 @@ body {
   margin: 0;
   padding: 0;
   height: 100vh;
-  font-size: 17.5px;
+  font-size: 15px;
   font-family: 'Outfit', sans-serif;
   font-weight: 400;
   text-align: center;
@@ -52,7 +52,7 @@ p {
 
 .container {
   background-color: var(--white);
-  max-width: 350px;
+  max-width: 300px;
   width: 100%;
   padding: 1.3rem;
   border-radius: 20px;
