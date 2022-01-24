@@ -38,7 +38,7 @@ img {
 h2,
 p {
   margin: 0;
-  margin-bottom: 2rem;
+  margin-bottom: 1.5rem;
 }
 
 h2 {
@@ -57,7 +57,7 @@ p {
   padding: 1.3rem;
   border-radius: 20px;
   display: grid;
-  row-gap: 2rem;
+  row-gap: 1.5rem;
 }
 
 #attribution {
